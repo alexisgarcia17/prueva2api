@@ -1,0 +1,29 @@
+{
+    "usuario": {
+        "nombres_usuario": "Cristian Alexis",
+        "apellido_usuario": "Garcia Ascencio",
+        "numero_documento_usuario": "05722292-0",
+        "tipo_documento": "PASAPORTE",
+        "nacionalidad": "Salvadoreño"
+    },
+    "documento": {
+        "documento_id": 1,
+        "url_documento": "https://www.securityartwork.es/2012/01/17/%C2%BFpueden-identificarnos-a-traves-de-nuestro-navegador/",
+        "descripcion": "Comprobante de credito fiscal",
+        "tipo_firma": "FIRMA SIMPLE",
+        "codigo_unico": "Prueva01",
+        "codigo_tramite_iniciado": "cod-01",
+        "created_at": "2022-10-04 17:14:52",
+        "updated_at": "2022-10-04 17:14:52"
+    },
+    "institucion": {
+        "nombre_institucion": "Ministerio de Educacion",
+        "institucion_abreviatura": "MINED",
+        "correo_electronico": "Educacion@mined.gob.sv"
+    },
+    "catalogo_documento": {
+        "codigo_documento": "F-210",
+        "Nombre_documento": "Comprobante de credito fiscal",
+        "politicas": "Politica de documento"
+    }
+}
