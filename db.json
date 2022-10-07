@@ -3,13 +3,13 @@
         "nombres_usuario": "Cristian Alexis",
         "apellido_usuario": "Garcia Ascencio",
         "numero_documento_usuario": "05722292-0",
-        "tipo_documento": "PASAPORTE",
+        "tipo_documento": "DUI",
         "nacionalidad": "Salvadoreño"
     },
     "documento": {
         "documento_id": 1,
-        "url_documento": "https://www.securityartwork.es/2012/01/17/%C2%BFpueden-identificarnos-a-traves-de-nuestro-navegador/",
-        "descripcion": "Comprobante de credito fiscal",
+        "url_documento": "https://packagist.org/packages/flipbox/lumen-generator/",
+        "descripcion": "Comprobante de debito fiscal",
         "tipo_firma": "FIRMA SIMPLE",
         "codigo_unico": "Prueva01",
         "codigo_tramite_iniciado": "cod-01",
@@ -17,12 +17,12 @@
         "updated_at": "2022-10-04 17:14:52"
     },
     "institucion": {
-        "nombre_institucion": "Ministerio de Educacion",
-        "institucion_abreviatura": "MINED",
-        "correo_electronico": "Educacion@mined.gob.sv"
+        "nombre_institucion": "Centro Nacional de Registros",
+        "institucion_abreviatura": "CNR",
+        "correo_electronico": "rprh@cnr.gob.sv"
     },
     "catalogo_documento": {
-        "codigo_documento": "F-210",
+        "codigo_documento": "F-211",
         "Nombre_documento": "Comprobante de credito fiscal",
         "politicas": "Politica de documento"
     }
